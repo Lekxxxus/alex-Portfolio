@@ -1,0 +1,19 @@
+.twitter {
+  background-image: url("../Images/logo.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 600px;
+}
+@media (min-width: 1024px) {
+  .twitter {
+    background-size: 1880px;
+    right: 11rem;
+  }
+}
+.twitter2 {
+  background-image: url("../Images/logo.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 450px;
+  top: 19rem;
+}

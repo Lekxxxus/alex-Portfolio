@@ -1,0 +1,194 @@
+.bg {
+  background-image: url("../images/big.jpg");
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: 1400px;
+}
+@media (min-width: 1024px) {
+  .bg {
+    background-size: cover;
+    background-position: center;
+  }
+}
+/* Logo */
+.fb {
+  background-image: url("https://images.ctfassets.net/yr4qj72ki4ky/5Nfk5OaSE3gl7eF15Q88sx/c688984f7704e7bc384bf91b8cff3299/facebook__3_.gif?q=72");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+.li {
+  background-image: url("https://images.ctfassets.net/yr4qj72ki4ky/6OabhqXx5rWyXts8QGzakr/22b0ca7ac81c98e4fa541b3c1d460710/linkedin__2_.gif?q=72");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+.go {
+  background-image: url("https://images.ctfassets.net/yr4qj72ki4ky/5DjOZWGeSY3iqaJFr1EdG4/ebb27abec3094d5ffed0c1dcacde10f2/google__2_.gif?q=72");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+.pp {
+  background-image: url("https://images.ctfassets.net/yr4qj72ki4ky/1dhW9B7iIXQVxmzl9U1mbV/083031d45f8031ee7e0d82a883bbd7c7/paypal__2_.gif?q=72");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+.ap {
+  background-image: url("https://images.ctfassets.net/yr4qj72ki4ky/4M3e9OIxGzqnMLtihq4RFO/9978fc7c45161506953957c7d0e55e13/apple__2_.gif?q=72");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+.am {
+  background-image: url("https://images.ctfassets.net/yr4qj72ki4ky/12ZLRyRL4BfLDIV0obG50g/26187e847fa7f3f1e744beb5231ee79e/amazon__2_.gif?q=72");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+.co {
+  background-image: url("https://images.ctfassets.net/yr4qj72ki4ky/4cL5TFRmG9EeyV5gDPKr6h/04296590e10d879fdd0047fea7473c09/capital-one.gif?q=72");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+.mi {
+  background-image: url("https://images.ctfassets.net/yr4qj72ki4ky/75PpgmULXpuEHNiNi1Jn7A/769a40529599d3e6ac0c6315af59de95/microsoft__2_.gif?q=72");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+.vi {
+  background-image: url("https://images.ctfassets.net/yr4qj72ki4ky/3wc9qonpCWCqjMxjoeSQAj/39b36b6dd19735e145e46f8996906f4d/visa.gif?q=72");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+.ac {
+  background-image: url("https://images.ctfassets.net/yr4qj72ki4ky/2kSIaK5gTF6VeBHaCrnBVY/11d8c9f548079e3e07af8c8707895be4/accenture.gif?q=72");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+/* Bootcamps */
+
+.p1 {
+  background-image: url("https://images.ctfassets.net/yr4qj72ki4ky/3dEYgPCRwiNssA9q5w8MX3/9cd48b52fa3252f07ce8fe0184e00878/hero-bg--career-services-remote.jpg?fm=webp&q=72");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.p2 {
+  background-image: url("https://images.ctfassets.net/yr4qj72ki4ky/6B372TkcigbhZjWbcsEHTG/4d4294fe0357629406325cd81581189f/prep-overview.jpg?fm=webp&q=72");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.p3 {
+  background-image: url("https://images.ctfassets.net/yr4qj72ki4ky/iTm286S19W8actRLyaIVi/4c7f0005f0a2d5029b638e3da375a959/scholarships?fm=webp&q=72");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+/* Testimony */
+
+.t1 {
+  background-image: url("https://images.ctfassets.net/yr4qj72ki4ky/5r0I7xfdZFtJMJ752E3N2M/7731ac7a1a451f109fd06c5584ef8ba8/melissalouie.png?q=72");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.t2 {
+  background-image: url("https://images.ctfassets.net/yr4qj72ki4ky/7KJsD2Q1xYWEcSknM0olgq/ecf6c1d66490559848d9396fe2e8a191/Kevin_Fang.jpg?q=72");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.t3 {
+  background-image: url("https://images.ctfassets.net/yr4qj72ki4ky/1htjEpISmbZZGhORNlM6XL/8c2a608c725b689d70318fb291049fbf/evelyn.jpg?q=72");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+/* awards */
+
+.a1 {
+  background-image: url("https://images.ctfassets.net/yr4qj72ki4ky/4dcxlMCve5wqHQHdqY87Mb/c2d46c35f7c8c5e60eacfe5bf596afd8/best-online-bootcamp-q1-2020.png?q=72");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.a2 {
+  background-image: url("https://images.ctfassets.net/yr4qj72ki4ky/5bFkGCREnbV2kGstHfGBbi/fb64afcde635e38e8f4756cbd9dd6543/Best_Coding_Bootcamps.png?q=72");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.a3 {
+  background-image: url("https://images.ctfassets.net/yr4qj72ki4ky/1RWhGkc5ix3p8ZUCCusgEo/f481e684f11d2723a4df2d58c9d17b9a/Best_Online_Badge_2020_-_green__1_.png?q=72");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+/* attention */
+
+.at1 {
+  background-image: url("https://images.ctfassets.net/yr4qj72ki4ky/79IznnuSoWbI1OhKJ04AkH/a011fb6a6a05d6f5fe3b57f1c2587c9c/1__1_.jpeg?q=72&fm=webp");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.at2 {
+  background-image: url("https://images.ctfassets.net/yr4qj72ki4ky/5qAD3R8peFtkcNtuInewM8/f714463f7873f680df170030018b2de6/The_First_Coding_School_with_Blockchain_Curriculum.jpg?q=72&fm=webp");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.at3 {
+  background-image: url("https://images.ctfassets.net/yr4qj72ki4ky/6svIlj4Ehiia46CVLaCJml/bfa27ec7e3c7296a31335634186437f4/campus-and-info-sessions?q=72&fm=webp");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+/* news */
+
+.n1 {
+  background-image: url("https://images.ctfassets.net/yr4qj72ki4ky/5kHWLdsT0dA33kN3E7jmCw/ae51f90edd794bbeb4e9cf4e7960be03/quartz.png?fm=webp&q=72");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.n2 {
+  background-image: url("https://images.ctfassets.net/yr4qj72ki4ky/2kShK5WOEYK2WSRD3308qp/dc3614fe040f8afd5a306c87fb5f0d37/forbes.png?fm=webp&q=72");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.n3 {
+  background-image: url("https://images.ctfassets.net/yr4qj72ki4ky/1gluxcuoJEIzrQrlRft5u6/7be1d8afc176b76b2cacb42bec918df5/techco.png?fm=webp&q=72");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+/* Menu */
+.navtoggle {
+  background-size: cover;
+  margin-left: auto;
+  width: 3rem;
+  height: 1.875rem;
+  display: block;
+  text-indent: -999em;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+div.scrollmenu {
+  overflow: auto;
+}
+
+.height {
+  height: none;
+}
