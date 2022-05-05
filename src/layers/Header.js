@@ -3,8 +3,9 @@ import Typical from 'react-typical';
 import { Box, Flex, Stack, Text, Button } from '@chakra-ui/react';
 import { ChevronRightIcon, ChevronLeftIcon } from '@chakra-ui/icons';
 import Screenshot1 from '../assests/Screenshot1.jpg';
+import BOSSALEX from '../assests/BOSSALEX.png';
 import alex from '../assests/alex.png';
-import { Bounce, Rotate, Fade } from 'react-reveal';
+import { Bounce, Fade } from 'react-reveal';
 
 const Header = () => {
   return (
@@ -17,12 +18,12 @@ const Header = () => {
           bgPosition="center"
           bgSize="cover"
           bgRepeat="no-repeat"
-          h={{ base: '60vh', md: '45vh' }}
+          h={{ base: '60vh', md: '55vh' }}
           display="flex"
           mt="10"
-          maxW={{ base: 'sm', sm: '8xl' }}
+          maxW={{ base: 'md', md: '1285px' }}
           marginLeft={'auto'}
-          marginRight={{ base: 'md', sm: '100' }}
+          marginRight={{ base: 'md', sm: '90' }}
         >
           <Stack color="white">
             <Text
@@ -30,6 +31,7 @@ const Header = () => {
               fontWeight="black"
               fontFamily="sans-serif"
               padding={20}
+              // defaultValue="Rasengan ⚡️"
             >
               Discover My Amazing <br />
               Art Space!
@@ -58,7 +60,7 @@ const Header = () => {
               </Text>
             </Flex>
 
-            <Flex paddingX={20} paddingTop="5">
+            <Flex paddingX={20} paddingTop={5}>
               <Button
                 boxShadow="Dark lg"
                 rounded="md"
@@ -80,7 +82,8 @@ const Header = () => {
           <Stack
             display={{ base: 'none', xl: 'flex' }}
             flex="1 1 0%"
-            backgroundImage={`url(${alex})`}
+            // backgroundImage={`url(${alex})`}
+            backgroundImage={`url(${BOSSALEX})`}
             backgroundPosition="center"
             backgroundSize="cover"
           ></Stack>

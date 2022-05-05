@@ -12,19 +12,19 @@ import {
 function Contact() {
   return (
     <>
-      <Box
-      // rounded="md"
-      // boxShadow="outline"
-      // h={{ base: '65vh', md: '6vh' }}
-      // display="flex"
-      // mt="10"
-      // maxW={{ base: 'md', sm: '8xl' }}
-      // marginLeft="auto"
-      // marginRight={{ base: 'md', sm: '100' }}
+      {/* <Box
+      rounded="md"
+      boxShadow="outline"
+      h={{ base: '65vh', md: '6vh' }}
+      display="flex"
+      mt="10"
+      maxW={{ base: 'md', sm: '8xl' }}
+      marginLeft="auto"
+      marginRight={{ base: 'md', sm: '100' }}
       >
         <Box>
           <Flex>
-            {/* <Box p="2">
+            <Box p="2">
               <Heading size="md" color="tomato"></Heading>
             </Box>
             <Spacer />
@@ -33,8 +33,8 @@ function Contact() {
                 Sign Up
               </Button>
               <Button colorScheme="teal">Log in</Button>
-            </Box> */}
-            {/* <Box>
+            </Box>
+             <Box>
               <Input
                 bg="transparent"
                 _hover={{
@@ -65,10 +65,10 @@ function Contact() {
                 variant="outline"
                 placeholder="First Name"
               />
-            </Box> */}
+            </Box>
           </Flex>
         </Box>
-      </Box>
+      </Box> */}
     </>
   );
 }

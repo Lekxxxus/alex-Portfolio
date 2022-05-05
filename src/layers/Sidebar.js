@@ -44,6 +44,8 @@ import {
 } from 'react-icons/fa';
 
 import lexus from '../assests/lexus.jpg';
+import grass1 from '../assests/grass1.jpg';
+import grass2 from '../assests/grass2.png';
 
 const Sidebar = () => {
   return (
@@ -59,7 +61,8 @@ const Sidebar = () => {
       <Box p={10} h="260px" bg="#252531">
         <Center>
           <Flex direction={'column'} justify="center" align="center">
-            <Avatar w="100px" h="95px" src={lexus} />
+            {/* <Avatar w="100px" h="95px" src={lexus} /> */}
+            <Avatar w="100px" h="95px" src={grass2} />
 
             <Stack spacing={3} p={3}>
               <Text fontSize="md" textAlign="center" color="white">

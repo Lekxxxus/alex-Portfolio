@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { Box, Flex, Text, Image, SimpleGrid } from '@chakra-ui/react';
+import { Box, Flex, Text, Image } from '@chakra-ui/react';
 
 import maxresdefault from '../assests/maxresdefault.jpg';
 import HTML from '../assests/HTML.png';

@@ -27,7 +27,8 @@ function Home() {
           bgSize="cover"
           backgroundAttachment="fixed"
           bgRepeat="no-repeat"
-          bgImage={`url('${Screenshot1}')`}
+          backgroundColor={'gray.900'}
+          // bgImage={`url('${Screenshot1}')`}
         >
           <Contact />
           <Header />
