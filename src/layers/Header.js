@@ -21,7 +21,7 @@ const Header = () => {
           h={{ base: '60vh', md: '55vh' }}
           display="flex"
           mt="10"
-          maxW={{ base: 'md', md: '1285px' }}
+          maxW={{ base: 'md', lg: '1445px' }}
           marginLeft={'auto'}
           marginRight={{ base: 'md', sm: '90' }}
         >
