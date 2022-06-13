@@ -1,6 +1,6 @@
 import React from 'react';
 
-import Typical from 'react-typical';
+// import Typical from 'react-typical';
 import {
   Box,
   Flex,
@@ -14,26 +14,10 @@ import {
   CircularProgress,
   CircularProgressLabel,
   Progress,
-  Image,
-  SimpleGrid,
   Button,
-  Drawer,
-  DrawerHeader,
-  DrawerBody,
-  DrawerContent,
-  DrawerOverlay,
   HStack,
-  UnorderedList,
-  ListItem,
-  Outline,
-  basicBoxStyles,
 } from '@chakra-ui/react';
-import {
-  CheckIcon,
-  ChevronRightIcon,
-  StarIcon,
-  ChevronLeftIcon,
-} from '@chakra-ui/icons';
+import { CheckIcon } from '@chakra-ui/icons';
 
 import {
   FaTwitter,
@@ -43,8 +27,8 @@ import {
   FaDownload,
 } from 'react-icons/fa';
 
-import lexus from '../assests/lexus.jpg';
-import grass1 from '../assests/grass1.jpg';
+// import lexus from '../assests/lexus.jpg';
+// import grass1 from '../assests/grass1.jpg';
 import grass2 from '../assests/grass2.png';
 
 const Sidebar = () => {

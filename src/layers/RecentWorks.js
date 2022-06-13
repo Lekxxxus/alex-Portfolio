@@ -1,5 +1,5 @@
 import React from 'react';
-import { Box, Text, Flex, Button } from '@chakra-ui/react';
+import { Box, Text, Flex } from '@chakra-ui/react';
 import Twitter from '../assests/Twitter.jpg';
 import Shopee from '../assests/Shopee.png';
 import DashBoard from '../assests/Dashboard.jpg';
@@ -8,7 +8,7 @@ import LoginPage from '../assests/LoginPage.jpg';
 import TodoList from '../assests/TodoList.jpg';
 
 import { Link } from 'react-router-dom';
-import { Bounce, Rotate, Fade } from 'react-reveal';
+import { Rotate, Fade } from 'react-reveal';
 
 const RecentWorks = () => {
   return (

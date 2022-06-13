@@ -10,7 +10,7 @@ import georgy from '../assests/georgy.png';
 import jes from '../assests/jes.png';
 import kian from '../assests/kian.jpg';
 import { StarIcon } from '@chakra-ui/icons';
-import { Rotate } from 'react-reveal';
+// import { Rotate } from 'react-reveal';
 
 function Testimony() {
   return (

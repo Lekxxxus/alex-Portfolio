@@ -6,7 +6,7 @@ import one from '../assests/one.png';
 import two from '../assests/two.png';
 import three from '../assests/three.png';
 import four from '../assests/four.png';
-import { Fade, Rotate, Roll } from 'react-reveal';
+import { Fade } from 'react-reveal';
 function Footer() {
   return (
     <>

@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { Box, Flex, Text, Image } from '@chakra-ui/react';
+import { Box, Flex, Text } from '@chakra-ui/react';
 
 import maxresdefault from '../assests/maxresdefault.jpg';
 import HTML from '../assests/HTML.png';
@@ -8,7 +8,7 @@ import JavaScript from '../assests/JavaScript.png';
 import Reactjs from '../assests/Reactjs.png';
 import CascadingStyleSheets from '../assests/CascadingStyleSheets.jpg';
 import material from '../assests/material.png';
-import { Fade, Rotate } from 'react-reveal';
+import { Fade } from 'react-reveal';
 
 function TechStacks() {
   return (

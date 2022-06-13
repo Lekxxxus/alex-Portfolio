@@ -3,7 +3,7 @@ import React from 'react';
 import { Box, Flex } from '@chakra-ui/react';
 
 import { useDisclosure } from '@chakra-ui/react';
-import Screenshot1 from '../assests/Screenshot1.jpg';
+// import Screenshot1 from '../assests/Screenshot1.jpg';
 
 import Header from '../layers/Header';
 import Sidebar from '../layers/Sidebar';
