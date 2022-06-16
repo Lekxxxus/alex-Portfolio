@@ -4,8 +4,9 @@ import { Box, Flex, Stack, Text, Button } from '@chakra-ui/react';
 import { ChevronRightIcon, ChevronLeftIcon } from '@chakra-ui/icons';
 import Screenshot1 from '../assests/Screenshot1.jpg';
 import BOSSALEX from '../assests/BOSSALEX.png';
+// import lex from '../assests/lex.jpg';
 import alex from '../assests/alex.png';
-import { Bounce, Fade } from 'react-reveal';
+import { Fade } from 'react-reveal';
 
 const Header = () => {
   return (
