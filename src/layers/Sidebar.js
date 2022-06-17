@@ -1,6 +1,6 @@
 import React from 'react';
 
-import Typical from 'react-typical';
+// import Typical from 'react-typical';
 import {
   Box,
   Flex,

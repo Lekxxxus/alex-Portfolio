@@ -4,8 +4,7 @@ import { Box, Flex, Stack, Text, Button } from '@chakra-ui/react';
 import { ChevronRightIcon, ChevronLeftIcon } from '@chakra-ui/icons';
 import Screenshot1 from '../assests/Screenshot1.jpg';
 import BOSSALEX from '../assests/BOSSALEX.png';
-// import lex from '../assests/lex.jpg';
-import alex from '../assests/alex.png';
+// import alex from '../assests/alex.png';
 import { Fade } from 'react-reveal';
 
 const Header = () => {
@@ -22,7 +21,7 @@ const Header = () => {
           h={{ base: '60vh', md: '55vh' }}
           display="flex"
           mt="10"
-          maxW={{ base: 'md', lg: '1445px' }}
+          maxW={{ base: 'md', md: '1460px' }}
           marginLeft={'auto'}
           marginRight={{ base: 'md', sm: '90' }}
         >

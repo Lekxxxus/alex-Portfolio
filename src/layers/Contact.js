@@ -1,13 +1,5 @@
 import React from 'react';
-import {
-  Box,
-  Stack,
-  Input,
-  Flex,
-  Heading,
-  Button,
-  Spacer,
-} from '@chakra-ui/react';
+import {} from '@chakra-ui/react';
 
 function Contact() {
   return (
